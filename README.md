@@ -53,7 +53,7 @@ valoarea actuala este : 15.0
 => calculators - un Python Package, care contine 
 fisierele:
 - __ init __.py
-- calculator_simplu.py => acesta este fisierul python unde 
+- [calculator_simplu.py](https://github.com/AnettaB91/CalculatorAPP/blob/main/calculators/calculator_simplu.py) => acesta este fisierul python unde 
 am creat class CalculatorSimplu() și metodele necesare 
 pentru operațiile de bază a unui calculator simplu, cum ar fi
 operațiile aritmetice +, -, *, / , și metoda de afișare a 
@@ -84,7 +84,7 @@ class CalculatorSimplu: #cream clasa CalculatorSimplu
         print(f'valoarea actuala este : {self.valoare_actuala}')
 ```
 
-=> main.py - fisierul principal Python, in care rulam aplicatia.
+=> [main.py](https://github.com/AnettaB91/CalculatorAPP/blob/main/main.py) - fisierul principal Python, in care rulam aplicatia.
 In acest fisier am facut urmatoarele comenzi:
 - am importat clasa CalculatorSimplu
 prin comanda: 
